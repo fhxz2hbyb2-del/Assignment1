@@ -5,8 +5,4 @@ The structure of the csv file is showed in the table underneath.
 
 | Title | Author | Year | Genre |
 |-------|--------|------|----------|
-| De ontdekking van de hemel | Harry Mulisch | 1992 | Philosophical |
-| The Great Gatsby | F. Scott Fitzgerald | 1925 | Tragedy |
-| 1984 | George Orwell | 1949 | Dystopian |
-| To Kill a Mockingbird | Harper Lee | 1960 | Social |
-| Het diner | Herman Koch | 2009 | Psychological |
+
