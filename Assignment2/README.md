@@ -1,5 +1,5 @@
 ## About this dataset 
-![Pokémon Header](https://lh5.googleusercontent.com/proxy/8Hk_DCSj7YFmPPJxUqBfZgmgpJtGqHwkj7uzRvLn3C_QC62PAd5gmeH-fdQN-lpg1W8ObYaaEuO7Ftwzq_NGnve6C23VqRwAB0f7r6P5EqbNKYcbwv--YdalF3ALJ-h5x0JRrBcZvL0TN-euXDaHbW__bWiv7w0c_o26a9d_8dNkD5uyCCh9g5Hjf-ylWYDqjkXzwmM)
+<img src="[IMAGE_URL](https://lh5.googleusercontent.com/proxy/8Hk_DCSj7YFmPPJxUqBfZgmgpJtGqHwkj7uzRvLn3C_QC62PAd5gmeH-fdQN-lpg1W8ObYaaEuO7Ftwzq_NGnve6C23VqRwAB0f7r6P5EqbNKYcbwv--YdalF3ALJ-h5x0JRrBcZvL0TN-euXDaHbW__bWiv7w0c_o26a9d_8dNkD5uyCCh9g5Hjf-ylWYDqjkXzwmM)" width="250" height = "300" align="right">
 
 This dataset was collected programmatically from [PokéAPI](https://pokeapi.co), which provides public REST access to Pokémon game data.
 It contains the following: 
