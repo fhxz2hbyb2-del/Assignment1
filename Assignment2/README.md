@@ -28,5 +28,5 @@ Tools used:
 * spaCy for text preprocessing and linguistic annotation
 
 All Pokémon names and descriptions are property of their respective copyright holders. Data was accessed legally via the public PokéAPI under fair use for research and educational purposes.\
-Author: Lise Feringa 
+<sub>Author: Lise Feringa</sub>
 
