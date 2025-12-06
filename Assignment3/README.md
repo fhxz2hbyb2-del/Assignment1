@@ -16,7 +16,10 @@ Cleaning snippet used in code:
 `title = title.encode('latin1', 'replace').decode('utf-8', 'replace')`\
 `title = re.sub(r'[^\x00-\x7F]+', "'", title)`
 
-The [robots.txt (http://books.toscrape.com/index.html/robots.txt)] is empty, meaning that scraping is permitted.
+##**Terms and Conditions**
+The [robots.txt](http://books.toscrape.com/index.html/robots.txt) is empty, meaning that scraping is permitted.
 They also state the following in their title:
-Books to Scrape, We love being scraped!
+_Books to Scrape, We love being scraped!_
+
 http://books.toscrape.com
+
